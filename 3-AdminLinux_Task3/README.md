@@ -28,3 +28,4 @@ Run the following command to make the script executable:
 
 ```bash
 chmod +x update_bashrc.sh
+```

@@ -6,13 +6,6 @@
 
 - [Features](#features)
 - [Requirements](#requirements)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-  - [User and Group Management](#user-and-group-management)
-  - [Environment Variable Setup](#environment-variable-setup)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 

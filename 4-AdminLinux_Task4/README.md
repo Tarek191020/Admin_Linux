@@ -24,6 +24,7 @@ Edit the script to specify the desired username and group name:
 ```bash
 UserName="yourName"
 GroupName="FamilyName"
+```
 
 ### Step 2: Save the Script
 
@@ -35,6 +36,7 @@ Run the following command to make the script executable:
 
 ```bash
 chmod +x user_group_manager.sh
+```
 
 ### Step 4: Run the Script
 
@@ -42,3 +44,4 @@ Execute the script with sudo:
 
 ```bash
 sudo ./user_group_manager.sh
+```

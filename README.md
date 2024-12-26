@@ -14,6 +14,8 @@
 - *User and Group Management*: Automatically checks for and creates users and groups, if necessary.
 - *Environment Configuration*: Dynamically appends environment variables to .bashrc and reloads the file.
 - *Automation*: Automates opening new terminal sessions for quick access.
+- *Binary Search Algorithm*: Implements an efficient search algorithm for sorted arrays.
+- *CapsLock Brightness Control*: Controls CapsLock LED brightness programmatically.
 
 ---
 

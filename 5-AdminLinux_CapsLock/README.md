@@ -17,9 +17,9 @@ This C program allows you to control the Caps Lock LED brightness on Linux syste
 1. Clone this repository or copy the C source code.
 2. Compile the program using gcc:
 
-    bash
+    ```bash
     gcc -o capslock_brightness capslock_brightness.c
-    
+    ```
 
 ## Running the Program
 
@@ -27,3 +27,4 @@ To run the program, execute the following command. You may need root privileges 
 
 ```bash
 sudo ./capslock_brightness
+```

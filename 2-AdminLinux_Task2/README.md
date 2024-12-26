@@ -35,10 +35,11 @@ Compile the program using a C compiler:
 
 ```bash
 gcc -o binary_search binary_search.c
-
+```
 ### Step 3: Run the Program
 
 Run the executable and provide input when prompted:
 
 ```bash
 ./binary_search
+```
